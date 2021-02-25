@@ -1,0 +1,71 @@
+a=2
+a = 2
+b <- 19
+(x <- 2 + 3)
+5 * 9 -> a
+a + 3
+nummy <- c(2,3,4)
+nummy <- c(2,3,4)
+nummy_int <- c(1L,2L,3L)
+typeof(nummy_int)
+is.numeric(nummy)
+is.character(types)
+is.character(types)
+is.double(nummy)
+nummy <- c(2,3,4)
+nummy_int <- c(1L,2L,3L)
+nummy_int <- c(1L,2L,3L)
+types <- c("int","double","character")
+types
+typeof(types)
+length(types)
+is.numeric(types)
+is.character(types)
+logicals <- c(TRUE,F,TRUE,T, FALSE)
+logicals
+logicals <- c(TRUE,F,TRUE,T, FALSE)
+logicals
+logicals <- c(TRUE,F,TRUE,T, FALSE)
+logicals
+money_in_chars <- c("20","35","33")
+typeof(money_in_chars)
+money_money <- as.numeric(money_in_chars)
+money_money
+money_money <- as.numeric(money_in_chars)
+money_money
+money_money <-as.logica(money_in_chars)
+money_money
+as.logical(money_in_chars)
+typeof(money_money)
+as.character(money_in_chars)
+as.logical(c(20,20,0))  
+numbers <-1:5
+numbers <- c(numbers,8)
+as.numeric(numbers)
+new_money <- c(money_money,"33")
+new_money
+money_money <- as.numeric(money_in_chars)
+money_money           
+c(2,4,"hello TRUE")
+c(2,4,TRUE)th.a
+month.name
+1:5
+6:5
+seq(5,7,3)
+9:89
+month.abb #in-built character vector with Month Abbreviations
+month.abb[2]
+month.abb[4:7]
+month.abb[9:2]
+month.abb[c(2,5,7,10)]
+month.abb[6:7:12]
+month.abb[3:11]
+month.abb[8:9:10]
+month.abb[c(3,4,5)]
+days <- c("Mon","Tue","Wed")
+days
+
+week_end <- c("Sat","Sun")
+more_days <- c(days,"Thu","Fri",week_end)
+more_days
+
